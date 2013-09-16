@@ -25,3 +25,4 @@ $ mv elemental_django.cop/* elemental_django
 $ git push origin master
 $ vim elemental_django/settings.py
 $ python manage.py syncdb
+python manage.py startapp polls
