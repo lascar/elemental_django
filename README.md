@@ -23,3 +23,5 @@ $ mv elemental_django/ elemental_django.cop
 $ git clone https://github.com/lascar/elemental_django.git elemental_django
 $ mv elemental_django.cop/* elemental_django
 $ git push origin master
+$ vim elemental_django/settings.py
+$ python manage.py syncdb
