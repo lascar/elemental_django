@@ -10,12 +10,13 @@ INSTALATION
     # django lives in /usr/local/bin/django-admin.py
     $  python
 
-Python 2.7.3 (default, Apr 10 2013, 06:20:15) 
-[GCC 4.6.3] on linux2
-Type "help", "copyright", "credits" or "license" for more information.
+Python 2.7.3 (default, Apr 10 2013, 06:20:15)  
+[GCC 4.6.3] on linux2  
+Type "help", "copyright", "credits" or "license" for more information.  
+
     >>> import django
     >>> print(django.get_version())
-1.7.dev20130915181426
+    1.7.dev20130915181426
 
 START REPOSITORY
 ---------------
