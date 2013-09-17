@@ -2,7 +2,6 @@ elemental_django
 ================
 INSTALATION
 ----------
-as root
     # wget https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py -O - | python
     # wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py
     # python get-pip.py
