@@ -2,9 +2,8 @@ elemental_django
 ================
 INSTALATION
 ----------
-    # wget https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py -O - | python
-    # wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py
-    # python get-pip.py
+    $ wget https://bitbucket.org/pypa/setuptools/raw/bootstrap/ez_setup.py -O - | sudo python
+    $ wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py .O - | sudo python
     # git clone git://github.com/django/django.git django-trunk
     # pip install -e django-trunk/
     # django lives in /usr/local/bin/django-admin.py
